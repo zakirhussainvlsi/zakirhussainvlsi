@@ -8,6 +8,6 @@
 zakirhussainvlsi/zakirhussainvlsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="justify">Mr. Mohammed Zakir Hussain, Matesters in VLSI System Design form JNTU-Hyderabad and a seniro member IEEE. His research areas are FPGA based signal processing, 
+<p align="justify">Mr. Mohammed Zakir Hussain, Matesters in VLSI System Design from JNTU-Hyderabad and a seniro member IEEE. His research areas are FPGA based signal processing, 
 cryptographic processors, RISC Processors and DSP Processors. So far he has to his credit 6 IEEE International Conference Papers. His subject expertise includes Verilog HDL, 
 SystemVerilog for Verification, VLSI Arithmetic Circuits.</p>
